@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'LandofSeabird',
+  title: 'LandofSeabird：',
   author: '桂志琛',
   email: 'coolfishg@gmail.com',
   link: 'https://nobelium-nine-chi.vercel.app/',
